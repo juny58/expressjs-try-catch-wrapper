@@ -1,6 +1,6 @@
 {
   "name": "expressjs-try-catch-wrapper",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "description": "This a package which handles expressjs's try-catch block for developer working as a global function, which will help developers. It also returns the res.send in case of success and sends error status if fails.",
   "main": "index.js",
   "scripts": {
