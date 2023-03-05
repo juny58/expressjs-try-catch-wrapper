@@ -1,0 +1,12 @@
+{
+  "name": "expressjs-try-catch-wrapper",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunnysyed007@gmail.com",
+  "license": "ISC",
+  "keywords": ["try catch wrapper", "try catch wrapper for expressjs", "expressjs try catch wrapper"]
+}
