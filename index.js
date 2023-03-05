@@ -1,6 +1,6 @@
 /**
  * Takes a function and runs inside Try catch block so that the developers won't have to do the sme every time,
- * They can just focus on main method
+ * They can just focus on main method. It also includes res.send and res.status(<statusCode>).send
  * @param {Function} fn The function to run inside the try catch, consisting the lines of codes
  * @param {ExpressJsRequest} req ExpressJS request object
  * @param {ExpressJsResponse} res ExpressJS response object
